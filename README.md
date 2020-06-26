@@ -1,6 +1,6 @@
 # TechDots
 
-Introduction
+# Introduction
 
 Many of our labor force are working on ground level emptying the garbage bins whenever they are full.
 This has now become a challenge as the amount of garbage produced by our society are continuously
@@ -13,7 +13,7 @@ Problem
 • Some people find it hard to make compost
 • People are avoiding home gardening due to lack of fertilizer
 
-Solution
+# Solution
 
 This system monitors the garbage bins and informs about the level of garbage collected in the garbage
 bins to a thingspeak channel. Also, moisture and temperature are collected through a humidity sensor
@@ -27,7 +27,7 @@ status to the user monitoring it. Also, the weight of the individual bins will b
 of the garbage bin. The LCD screen shows the status of the garbage level, moisture and temperature. The
 system puts on the buzzer when the level of garbage collected crosses the set limit.
 
-Components
+# Components
 
 • ESP32
 • HC-SR04 Ultrasonic
@@ -43,7 +43,7 @@ Components
 • LED’s
 • Supporting frame
 
-Team Members
+# Team Members
 ▪ Nipuna Munasinghe (Team Leader)
 ▪ Kasuri Abhilashini
 ▪ Malinga Shenal
