@@ -33,6 +33,7 @@ system puts on the buzzer when the level of garbage collected crosses the set li
 • HC-SR04 Ultrasonic
 • Humidity Sensor
 • Weight Sensor
+• Temperature Sensor
 • Buzzer
 • LCD’s
 • Resistors
